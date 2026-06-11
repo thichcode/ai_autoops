@@ -1,0 +1,12 @@
+# Secrets
+.env
+*.pem
+*.key
+**/vault/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
